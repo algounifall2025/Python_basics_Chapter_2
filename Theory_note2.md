@@ -67,14 +67,14 @@ z = "Python"
 is_online = False  
 print(x, y, z, is_online)
 ```
-┌────────────┬────────┬────────┐
-│ Variable   │ Type   │ Value  │
-├────────────┼────────┼────────┤
-│ x         │ int    │ 10     │
-│ y         │ float  │ 3.5    │
-│ z         │ str    │ Python │
-│ is_online  │ bool   │ False  │
-└────────────┴────────┴────────┘
+
+│ Variable │ Type │ Value │
+|----------|------|-------|
+│ x │ int │ 10 │
+│ y │ float │ 3.5 │
+│ z │ str │ Python │
+│ is_online │ bool │ False │
+
 
 
 
